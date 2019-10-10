@@ -1,4 +1,4 @@
-# CapstoneProjectTemplate /* Title of your project */
+# Trust Administration Mobile App
 
 ## **Summary**
 
@@ -6,18 +6,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Chris Wilson
+- Nick Bartling
+- Ja'von Elliot
+- Drew Ellery
 
 ## **Client Partner Information**
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+Accutech
 
 ### *People:*
-- Jane Fonda
-- Jane Lynch
+- Iris Lewis-Beasley
+- Linc Mitchell
 
 ## **Links**
 
