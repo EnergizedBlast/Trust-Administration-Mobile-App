@@ -23,7 +23,7 @@ Accutech
 ## **Links**
 
 - [Project description](ProjectDescription.md)
-- [Clubhouse of the project](https://app.clubhouse.io)
+- [Clubhouse of the project](https://app.clubhouse.io/bsucs495/project/35/trust-administration-mobile-app)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 
