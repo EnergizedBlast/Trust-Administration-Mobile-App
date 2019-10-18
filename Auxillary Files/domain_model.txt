@@ -1,0 +1,79 @@
+@startuml
+class Administrator
+{
+	Name
+	--
+	Username
+	--
+	Password
+	--
+	Assigned Accounts
+}
+class Account
+{
+	Account Name
+	--
+	Account Owner
+	--
+	Assigned Administrators
+	--
+	Market Value
+	--
+	Transaction History
+}
+class Account_Owner
+{
+	Name
+	--
+	Associated Accounts
+}
+class Files
+{
+	File Name
+	--
+	Date Uploaded
+	--
+	File Extension Type
+	--
+	File Size
+}
+class Relationships
+{
+	Name
+	--
+	Address
+	--
+	Affiliation
+}
+class Transaction
+{
+	Type
+	--
+	Amount
+	--
+	Timestamp
+	--
+	Creator
+	--
+	Additional Information
+}
+class Tasks
+{
+	Title
+	--
+	Creator
+	--
+	Timestamp
+	--
+	Assigned Administrators
+}
+
+Administrator -* Account : Manages >
+Account *- Relationships : Associated With >
+Account *- Files : Attached >
+Transaction -- Administrator : Approves <
+Account *- Account_Owner : Owns <
+Account_Owner -- Transaction : Creates >
+Administrator -- Tasks : Creates >
+Administrator -- Tasks : Resolves/Dismisses <
+@enduml
