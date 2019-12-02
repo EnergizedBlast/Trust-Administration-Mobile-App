@@ -26,6 +26,7 @@ Accutech
 - [Clubhouse of the project](https://app.clubhouse.io/bsucs495/project/35/trust-administration-mobile-app)
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [Code Repository](https://github.com/nabartling/TrustAdministrationMobileAppcode)
 
 ## **Code Repositories**
 - [Mobile App - Xamarin](https://visualstudio.microsoft.com/xamarin/)
