@@ -1,0 +1,29 @@
+# Week of 9/30/2019 - 10/6/2019
+
+## Meeting Start Time
+
+**2019/12/03/15:30**
+
+## Meeting End Time
+
+**2019/12/03/17:43**
+
+## Location
+
+**RB368**
+
+## Present
+
+Chris, Drew, Ja'von, Nick
+
+## Minute Recorder
+
+Chris
+
+## Topics Discussed
+
+Each team member did research/plausibility testing for seeing what environment would be best for further developing our cross compatible mobile app. In the process of that, we discovered how to make Xamarin work reliable across all of our devices, and we did further research into how to insert our frontend content (HTML, CSS, Forms etc.) into the current infrastructure. The result is we all now have a properly working Android environment to work off of.
+
+## Things Clarified
+
+We need to play around/get guidance on how to utilize to the API key we were given. It allows us access to getters and setters for their test environment (which we were also given), but we don't know how to use the API itself, so that will be a goal for the following meetings. Before Thursday, we plan to have a solid idea of what roles we each should be filling (Ja'von is definitively frontend and UI, and Nick is looking to handle backend and database handling).
