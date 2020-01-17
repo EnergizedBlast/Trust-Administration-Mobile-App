@@ -1,16 +1,15 @@
 ## **Commented code**
 
-FILE: Homepage.html LINE: 36 COMMENT: "side icon navigation bar" DESCRIPTION: For the vertical icon menu.
-https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustAdministrationMobileApp.Android/Assets/Application%20UI/html/Homepage.html
+FILE: Homepage.xaml LINE: 30 COMMENT: "Editor (Read-Only) That activities and tasks are passed into" DESCRIPTION:The frames for the activities and tasks.
+https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustadministrationAppProject/TrustadministrationAppProject/Views/HomePage.xaml
 
-FILE: Homepage.css LINE: 104 COMMENT "Add a grey background color and mouse-over". DESCRIPTION: The styling of the top navigation menu.
-https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustAdministrationMobileApp.Android/Assets/Application%20UI/html/Homepage.css
+FILE: Login.xaml.cs LINE:24 COMMENT "Verifies Login based off API". DESCRIPTION: This line calls the Authentication function that is defined within the models folder to verify the user upon loging in
+https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustadministrationAppProject/TrustadministrationAppProject/Views/Login.xaml.cs
 
-FILE: newtask.css LINE: 222 COMMENT: "styling of the fixed footer" DESCRIPTION: uses jquery mobile notation to adjust the postiion of the footer
-https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustAdministrationMobileApp.Android/Assets/Application%20UI/html/newtask.css
+FILE: Activitypage.xaml LINE: 11 COMMENT: "Creating Required Fields" DESCRIPTION: create the fields that the user is required to complete in order to save the activity correctly. 
+https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustadministrationAppProject/TrustadministrationAppProject/Views/ActivityPage.xaml
 
-FILE: newtask.css LINE: 212 COMMENT: "Add animation (fade in the popup)"  DESCRIPTION: styling of the popup that appears when the button "save" is clicked.
-https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustAdministrationMobileApp.Android/Assets/Application%20UI/html/newtask.css
+FILE: TaskPage.xaml.cs LINE: 27 COMMENT: "Displays a popup and redirects the user to the home page"  DESCRIPTION: After the user clicked the save button, the data is stored and a popup is created saving that the "task has been assigned" while doing so, the user is taken back to the homepage.
+https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustadministrationAppProject/TrustadministrationAppProject/Views/TaskPage.xaml.cs
 
-FILE:logon.css LINE: 28 COMMENT: "removes bullet points" DESCRIPTION: changes the style of the list so that no bullet points will appear.
-https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustAdministrationMobileApp.Android/Assets/Application%20UI/html/logon.css
+FILE: App.xaml.cs LINE: 23 COMMENT: "create navigation page" DESCRIPTION: each page is initialized as a navigation page so the action bar can be shown and the user and navigate to either the previous page of another page.https://github.com/nabartling/TrustAdministrationMobileAppcode/blob/master/TrustadministrationAppProject/TrustadministrationAppProject/App.xaml.cs
