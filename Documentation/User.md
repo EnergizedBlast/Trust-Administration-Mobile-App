@@ -1,36 +1,37 @@
-                                              ## **Interationn Features**
-The features of the Second interation include the following: ability to Login in connection to the API, easy Nagviagtion on EveryPage, ability to create and Resolve/Dismiss a task and the Ability to Create and save an activity. These saved task and activitys will be displayed on the homepage of the program.  
+## **Interation Features**
+The features of the second interation include the following: 
+The ability to login in to the application via the API, nagviagtion buttons on every page, ability to create and resolve/dismiss tasks and the ability to create and delete activities. These saved task and activities also are displayed on the homepage of the application.  
                                                       
-                                                      ## **Set Up:** 
+## **Set Up** 
                                                       
 1. Download Visual Studio Community Version at https://visualstudio.microsoft.com/downloads/
 
-2. Open Visual Studio and Click "Clone or check out code"
+2. Open Visual Studio and click "Clone or check out code"
 
-3. Enter this URL: https://github.com/nabartling/TrustAdministrationMobileAppcode.git
+3. Enter this URL: https://github.com/nabartling/TrustAdministrationMobileAppcode.git (if you need access to clone, please contact Nick at nabartling@bsu.edu).
 
-4.Choose a location for The Repo to be cloned. (Desktop or C:Drive works best So you will not recieve a Long Path Error upon runtime) 
+4. Choose a location for the repo to be cloned (Desktop or C:Drive works best to avoid recieving a Long Path Error upon runtime).
 
 5. After it has cloned, Click Tools -> Android -> Android Device Manager. 
 
-6.When Prompt with a new window click New. And make sure the following is the same: 
+6. When prompt with a new window click new. And make sure the following is the same: 
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/42631742/72646936-4e746900-3945-11ea-93dc-a3e055ce68d7.png)
 
-7.Press CTRL and F5 or the green play icon in the top menu. 
+7.Press CTRL and F5 or the green play icon in the top menu.
 
-                                                      ##**Steps:## 
+##**Steps## 
                                                       
-1. The main page is the login page. The credentials can be required from Javon: jjelliott@bsu.edu, Chris:cswilson@bsu.edu Drew:aeellery@bsu.edu Nick:nabartling@bsu.edu
+1. The main page is the login page. The credentials can be acquired from the following people:
+Javon: jjelliott@bsu.edu, Chris: cswilson@bsu.edu, Drew: aeellery@bsu.edu, Nick: nabartling@bsu.edu
 
 ![Screenshot (178)](https://user-images.githubusercontent.com/42631742/72647731-3271c700-3947-11ea-9da3-c9a9b367daad.png)
 
-2. Once you are logged in, navigate the home page to become familar with the lay out
+2. Once you are logged in, navigate the home page to become familar with the layout.
 
 ![Screenshot (179)](https://user-images.githubusercontent.com/42631742/72647786-56350d00-3947-11ea-9828-be92c59e607e.png)
 
-
-3. next, click on create new task to be taken to the next page and fill in the empty fields.
+3. Next, click on the button labeled "Create" under the Tasks window to be taken to the create new task page. Fill in the empty fields.
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/42631742/72647810-6351fc00-3947-11ea-8cc7-527183a6d306.png)
 
@@ -40,16 +41,14 @@ The features of the Second interation include the following: ability to Login in
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/42631742/72647862-88466f00-3947-11ea-99ca-bcd398dd73d0.png)
 
-7.In the end you should see your created task and activites displayed in the frames on the Homepage.
+7. In the end you should see your created tasks and activities displayed in the frames on the homepage.
 
 ![Screenshot (181)](https://user-images.githubusercontent.com/42631742/72647890-98f6e500-3947-11ea-8cef-4de54b9d1eb2.png)
 
-8. To Resolve a Task, Simply click delete to be prompted this screen 
+8. To resolve a Task, simply click "Resolve" under the Tasks window to be prompted with a popup requesting which Task you would like to resolve. 
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/42631742/72647920-b5931d00-3947-11ea-8ef3-9624fafab64c.png)
 
-9. Next click the Task you want to Resolve and it will go away.
+9. Next click the Task you want to resolve and it will be cleared from the application's database.
 
-10. Do the same will the "Delete" within the "Activities" frame. 
-
-
+10. Do the same will the "Delete" button within the "Activities" frame. 
