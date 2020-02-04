@@ -13,3 +13,6 @@ Each folder is composed of default files and subfolders that are pre-created fro
 Some important files: Homepage.xaml/.xaml.cs, TaskPage.xaml/.xaml.cs, ActivityPage.xaml/.xaml.cs, Login.xaml/.xaml.cs, App.xaml/.xaml.cs, User.cs Token.cs, Taskdata.cs, Constants.cs, ActivtyData.cs, Authenticator.cs, MainActivity.cs 
 All of the listed files are essential for testing and for the software to run properly.  
 In addition, there is a .gitattributes file and a .gitignore file that are for github purposes. 
+
+
+## **Tech aspects**
