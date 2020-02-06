@@ -31,3 +31,18 @@
 -There can be some instances where the login is not accepted or the task does not save. A simple solution would be to repeat the process of re-entering the credentials or creating another task.
 
 -There have been errors relating to being unable to access a path; it usually is because the path to the project files is too long. To resolve, simple move the project to higher-leveled folders until the error disappears.
+
+## **Producing APK**
+1. Open Visual studio
+
+2. Right-click at your Android project: open ‘Properties’ tab. Be sure that selected drop down is ‘Release’, not ‘Debug’.
+
+3. Define the minimum android version for the application.
+
+4.click 'build --> "clean solution" 
+
+5. click 'build' -> 'rebuild'
+
+6. create the package 
+
+7. copy the .apk file to device and install it for testing. 
