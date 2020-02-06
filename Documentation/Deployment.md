@@ -39,7 +39,7 @@
 
 3. Define the minimum android version for the application.
 
-4.click 'build --> "clean solution" 
+4. click 'build --> "clean solution" 
 
 5. click 'build' -> 'rebuild'
 
