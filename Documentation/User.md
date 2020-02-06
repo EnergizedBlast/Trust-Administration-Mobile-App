@@ -25,30 +25,22 @@ The ability to login in to the application via the API, nagviagtion buttons on e
 1. The main page is the login page. The credentials can be acquired from the following people:
 Javon: jjelliott@bsu.edu, Chris: cswilson@bsu.edu, Drew: aeellery@bsu.edu, Nick: nabartling@bsu.edu
 
-![Screenshot (178)](https://user-images.githubusercontent.com/42631742/72647731-3271c700-3947-11ea-9da3-c9a9b367daad.png)
+![Capture](https://user-images.githubusercontent.com/42631742/73904967-bbf02700-486b-11ea-9e88-e566db41e090.PNG)
 
-2. Once you are logged in, navigate the home page to become familar with the layout.
+2. Once you are logged in, navigate the home page to become familar with the layout. Then click the 3 bar icon on the top left corner 
 
-![Screenshot (179)](https://user-images.githubusercontent.com/42631742/72647786-56350d00-3947-11ea-9828-be92c59e607e.png)
+![Portfolio view](https://user-images.githubusercontent.com/42631742/73904988-d1fde780-486b-11ea-8aa6-265c4d198b8e.PNG)
+![Menu page](https://user-images.githubusercontent.com/42631742/73905013-eb9f2f00-486b-11ea-98f6-912d1b11c309.PNG)
 
-3. Next, click on the button labeled "Create" under the Tasks window to be taken to the create new task page. Fill in the empty fields.
+3. Next, click on the menu item named "activites" and explore the different activites that are gathered from the api 
 
-![Screenshot (180)](https://user-images.githubusercontent.com/42631742/72647810-6351fc00-3947-11ea-8cc7-527183a6d306.png)
+![view activity](https://user-images.githubusercontent.com/42631742/73905099-38830580-486c-11ea-8055-5e6896532c8e.PNG)
 
-5. Once you are finished, click the save button to store the new task or the reset button to empty the fields. 
+4. next click the "create button on the top left corner to create and new activity  
 
-6. Repeat the previous two steps for the activites.
+![create activity](https://user-images.githubusercontent.com/42631742/73905148-5a7c8800-486c-11ea-8d90-0558a64534d8.PNG)
 
-![Screenshot (182)](https://user-images.githubusercontent.com/42631742/72647862-88466f00-3947-11ea-99ca-bcd398dd73d0.png)
+5. You should see the activity on the activity page. Click the activity to gather a full description 
 
-7. In the end you should see your created tasks and activities displayed in the frames on the homepage.
+![extended description](https://user-images.githubusercontent.com/42631742/73905267-bfd07900-486c-11ea-8fb4-e8b5fae433bd.PNG)
 
-![Screenshot (181)](https://user-images.githubusercontent.com/42631742/72647890-98f6e500-3947-11ea-8cef-4de54b9d1eb2.png)
-
-8. To resolve a Task, simply click "Resolve" under the Tasks window to be prompted with a popup requesting which Task you would like to resolve. 
-
-![Screenshot (183)](https://user-images.githubusercontent.com/42631742/72647920-b5931d00-3947-11ea-8ef3-9624fafab64c.png)
-
-9. Next click the Task you want to resolve and it will be cleared from the application's database.
-
-10. Do the same will the "Delete" button within the "Activities" frame. 
