@@ -27,9 +27,11 @@
 
 ## **Important files**
 **Main Solution**
-- Models Folder: Token.cs, Taskdata.cs, Constants.cs, ActivtyData.cs, Authenticator.cs, MainActivity.cs 
+- Models Folder: Token.cs, Taskdata.cs, Constants.cs, ActivtyData.cs, Authenticator.cs, MainActivity.cs, Constants.cs UserGuid.cs, User.cs, IndentitRecordModel.cs, ActivityPost.cs, ActivityCategory.cs  
 - ThemeResources Folder: LightTheme.xaml
-- Views Folder: Homepage.xaml/.xaml.cs, TaskPage.xaml/.xaml.cs, ActivityPage.xaml/.xaml.cs, viewActivityPage.cs ViewTaskPage.cs - -  MainPage.cs MenuPage.cs Login.xaml/.xaml.cs, User.cs 
-- Services Folder: ActivityHandler.cs, Autheniticator.cs LocalJsonEditor.cs TaskHandler.cs
+- Views Folder: Homepage.xaml/.xaml.cs, TaskPage.xaml/.xaml.cs, ActivityPage.xaml/.xaml.cs, viewActivityPage.cs ViewTaskPage.cs - -  MainPage.cs MenuPage.cs Login.xaml/.xaml.cs, User.cs, 
+AccountDetailPage.xaml/.cs, Accountpage.xaml/.cs 
+- Services Folder: ActivityHandler.cs, Autheniticator.cs LocalJsonEditor.cs TaskHandler.cs, LocalJsonEditor.cs, TaskDataStore.cs, ActivityDataStore.cs, AccountDataStore.cs, IDataStore.cs
+- ViewModels Folder: AccountDetailView.cs, AccountListView.cs, ActivityCategoriesViewModel.cs, ActivityDetailViewModel.cs, ActivityListViewModel.cs, BaseViewModel.cs
 - All of the listed files are essential for testing and for the software to run properly.  
 - In addition, there is a .gitattributes file and a .gitignore file that are for github purposes. 
