@@ -3,7 +3,7 @@ The features of the second interation include the following:
 The ability to login in to the application via the API, nagviagtion buttons on every page, ability to create and save activites. These activities are pushed and stored to an api. In addition, you can now view all accounts with details. There is also a logout function and a timeout function after a certain amount of time due to inactivity.
                                                       
 
-##**Steps## 
+##**Steps**
                                                       
 1. The main page is the login page. The credentials can be acquired from the following people:
 Javon: jjelliott@bsu.edu, Chris: cswilson@bsu.edu, Drew: aeellery@bsu.edu, Nick: nabartling@bsu.edu
