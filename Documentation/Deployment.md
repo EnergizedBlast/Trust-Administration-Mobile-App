@@ -37,14 +37,18 @@
 ## **Producing APK**
 1. Open Visual studio
 
-2. Right-click at your Android project: open ‘Properties’ tab. Be sure that selected drop down is ‘Release’, not ‘Debug’.
+2. Right-click the .Android project: select the ‘Properties’ tab. Be sure that selected drop down is ‘Release’, not ‘Debug’.
 
 3. Define the minimum android version for the application.
 
-4. click 'build --> "clean solution" 
+4. Click 'Build --> "Clean Solution".
 
-5. click 'build' -> 'rebuild'
+5. Click 'Build' -> 'Rebuild'.
 
-6. create the package 
+6. Right-click the .Android project: select 'Archive'; this will pull up the Archive Manager view. After a moment, it'll create the package.
 
-7. copy the .apk file to device and install it for testing. 
+7. In the Archive Manage view, click at the bottom 'Distribute'. Select 'Ad Hoc'.
+
+8. Select 'Import' and navigate to 'TAP.keystore' file location, located in the .Android project directory under 'Keystore'. The password for the key is "P@ssword1!".
+
+7. Copy the resulting .apk file to device and install it for testing. 
