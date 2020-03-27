@@ -4,7 +4,7 @@
 - The tasks and activities are stored locally, but will be obtained from the API in future iterations. 
 
 ## **File placement**
-- Everything that is default should be kept in their current state. 
+- Everything that is default should be kept in their current state.  
 
 - The current UI code is placed within the views folder that is under the  "TrustAdministrationProject' solution file. Each .xaml file has a .xaml.cs that controls the functionality of the UI for that respect page. 
 
