@@ -1,7 +1,7 @@
 ## **Tech aspects**
 - This project was developed on Windows 10 operating systems, using Visual Studio as the IDE.
 - Frameworks include: JQuery mobile, Xamarin, RestSharp
-- Front-end: Xaml 
+- Front-end: Xaml  
 - Backend: C#
 - API: Cheetah API
 
