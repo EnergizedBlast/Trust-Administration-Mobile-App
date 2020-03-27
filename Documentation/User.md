@@ -8,53 +8,51 @@ The ability to login in to the application via the API, nagviagtion buttons on e
 1. The main page is the login page. The credentials can be acquired from the following people:
 Javon: jjelliott@bsu.edu, Chris: cswilson@bsu.edu, Drew: aeellery@bsu.edu, Nick: nabartling@bsu.edu
 
-![Login](https://user-images.githubusercontent.com/42631742/75511418-31a76880-59bc-11ea-9268-9bc89fef84c7.PNG)
+![login screen final](https://user-images.githubusercontent.com/42631742/77805790-27c76280-7059-11ea-83bf-6b2de27db8ef.PNG)
 
-2. Once you are logged in, navigate the home page to become familar with the layout. Then click the 3 bar icon on the top left corner 
+2. Once you are logged in, navigate the home page where you can see the snapshot of your accounts. become familar with the layout. Then click the 3 bar icon on the top left corner 
+
+![Homepage final](https://user-images.githubusercontent.com/42631742/77805803-3150ca80-7059-11ea-8eba-c902304825a3.PNG
 
 ![menu items](https://user-images.githubusercontent.com/42631742/75511444-4126b180-59bc-11ea-805a-3476debbf45d.PNG)
 
 3. Next, click on the menu item named "accounts" and explore the different accounts that are gathered from the api 
 
-![Accounts](https://user-images.githubusercontent.com/42631742/75511480-5ac7f900-59bc-11ea-862f-1499d53f7035.PNG)
-
+![Accounts final](https://user-images.githubusercontent.com/42631742/77805815-3746ab80-7059-11ea-85bb-a03bba63ae47.PNG)
 
 4. next click on any account to display a detailed page of that account  
 
-![Activities detail page](https://user-images.githubusercontent.com/42631742/75511522-76cb9a80-59bc-11ea-88cf-2a3787dd7595.PNG)
+![Account detail view final](https://user-images.githubusercontent.com/42631742/77805824-3a419c00-7059-11ea-9cb8-f117a0eb8e53.PNG)
 
 5. Next click on the 3 bars in the top left corner and navigate to the "activities page" 
 
-![Activites page](https://user-images.githubusercontent.com/42631742/75511564-95319600-59bc-11ea-9706-82448ca2cd80.PNG)
+![Activities final](https://user-images.githubusercontent.com/42631742/77805941-a8865e80-7059-11ea-985d-1ef9e93b1bd3.PNG)
 
-6. click the "sync" button to check the network connection.
+6. Look at the different activities and click on the one that you would like to see a detailed description of. 
 
-![Network avaliable](https://user-images.githubusercontent.com/42631742/75511819-610aa500-59bd-11ea-9bc6-cd230414cfce.PNG)
+![activity detail view final](https://user-images.githubusercontent.com/42631742/77805976-bfc54c00-7059-11ea-890a-d7203b78aec4.PNG)
 
-7. put the phone into "airplane mode" and click "sync" to check the connection again (this function will soon prompt any activites to be saved as sa draft until a connection is established)
+7. click on the back arrow on the top left corner of the page to go back to the activities page.
+8. click the "create" button in the top left corner
+9. Fill in the following fields 
 
+![create activity](https://user-images.githubusercontent.com/42631742/77806512-4fb7c580-705b-11ea-862d-bfe6b6f962e9.PNG)
 
-![Network not avalible](https://user-images.githubusercontent.com/42631742/75511896-a3cc7d00-59bd-11ea-8532-57e6b9ca376f.PNG)
+10. when finished, clicked save. 
+11. your saved activity will be displayed at the very bottom of the list because currently the list is displayed in ascending order.
+12. Next click the menu icon in the top left corner
+13. Click "Tasks" 
+14. repeat steps 6 -11
+![task view final](https://user-images.githubusercontent.com/42631742/77806606-8e4d8000-705b-11ea-9290-78ca6870613e.PNG)
 
-8. Turn "airplane mode" off
+![task detail view fina;](https://user-images.githubusercontent.com/42631742/77806664-b3da8980-705b-11ea-87aa-fdd386ca36fa.PNG)
 
-9. Look at the different activities and click on the one that you would like to see a detailed description of. 
-
-![Activities detail page](https://user-images.githubusercontent.com/42631742/75511613-ae3a4700-59bc-11ea-944a-267cea814caf.PNG)
-
-10. click on the back arrow on the top left corner of the page to go back to the activities page.
-11. click the "create" button in the top left corner
-12. Fill in the following fields (the category ID is not vital and can be left empty if needed)
-
-![create activity](https://user-images.githubusercontent.com/42631742/75511715-02452b80-59bd-11ea-9590-29cf171632d9.PNG)
-
-13. when finished, clicked save. 
-14. your saved activity will be displayed at the very bottom of the list because currently the list is displayed in ascending order (will be fixed in the near future).
-15. Next click the menu icon in the top left corner
+![save task](https://user-images.githubusercontent.com/42631742/77806527-57776a00-705b-11ea-8067-86cc7e31b609.PNG)
+15. Click the menu bar
 16. click "logout" 
 17. Click yes or no. 
 
-![logout](https://user-images.githubusercontent.com/42631742/75511950-de361a00-59bd-11ea-916d-f4668c9c4534.PNG)
+![logout final](https://user-images.githubusercontent.com/42631742/77806719-de2c4700-705b-11ea-85bd-b9d5642bdd1a.PNG)
 
 18. After 1 minute (time is less for testing purposes) the session will time out and the user will be taken back to the login screen. 
 
