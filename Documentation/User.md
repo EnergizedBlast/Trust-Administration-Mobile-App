@@ -43,11 +43,13 @@ Javon: jjelliott@bsu.edu, Chris: cswilson@bsu.edu, Drew: aeellery@bsu.edu, Nick:
 12. Next click the menu icon in the top left corner
 13. Click "Tasks" 
 14. repeat steps 6 -11
+
 ![task view final](https://user-images.githubusercontent.com/42631742/77806606-8e4d8000-705b-11ea-9290-78ca6870613e.PNG)
 
 ![task detail view fina;](https://user-images.githubusercontent.com/42631742/77806664-b3da8980-705b-11ea-87aa-fdd386ca36fa.PNG)
 
 ![save task](https://user-images.githubusercontent.com/42631742/77806527-57776a00-705b-11ea-8067-86cc7e31b609.PNG)
+
 15. Click the menu bar
 16. click "logout" 
 17. Click yes or no. 
